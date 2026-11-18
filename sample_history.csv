@@ -1,0 +1,11 @@
+id,eventType,timestamp,description
+1,SAFETY_STATUS_SAFE,2026-10-01T08:15:00,User confirmed they are safe.
+2,SAFETY_STATUS_UNSAFE,2026-10-01T18:42:00,User marked their status as unsafe.
+3,CALL_112_INITIATED,2026-10-01T18:45:00,Emergency call to 112 initiated.
+4,SILENT_ALERT_SENT,2026-10-02T21:10:00,Silent alert SMS sent.
+5,SOS_CONFIRMED,2026-10-03T23:05:00,SOS call initiated.
+6,SAFETY_STATUS_SAFE,2026-10-04T07:30:00,User returned to a safe status.
+7,SAFETY_STATUS_UNSAFE,2026-10-04T20:18:00,User marked their status as unsafe.
+8,SILENT_ALERT_SENT,2026-10-04T20:20:00,Silent alert SMS sent.
+9,SOS_CONFIRMED,2026-10-04T20:23:00,SOS call initiated.
+10,SAFETY_STATUS_SAFE,2026-10-05T09:05:00,User confirmed they are safe.
